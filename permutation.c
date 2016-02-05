@@ -37,5 +37,7 @@ int main() {
     print(stack);
     printf("\n");
     permute(stack, s, 0, length);
+
+    return 0;
 }
 
